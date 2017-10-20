@@ -1,0 +1,20 @@
+
+server part:
+I use SQL server 2014.
+And I set the login mode to SQL server Authentication.
+So I have a username and a password
+
+Then I run java program in Eclipse.
+I need information to login database from program:
+String driverName="com.microsoft.sqlserver.jdbc.SQLServerDriver";
+String dbURL="jdbc:sqlserver://localhost:1433;DatabaseName=CS526demo";
+String userName="sa";
+String userPwd="qc476404667";
+
+Then I can load information from database.
+
+client part:
+	Start the server first, then input phone number as username. After login press location button sent your coordinate to server, when the hint message said go, press the "more detail" button for more detail.
+
+indoor part: android studio
+	when open the project ,it will download the gradle automaticly. In the project ,change the routers' ID to recognize them, and the application will display the rssi and distance for every router.An sample area will be sent to the sever.

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WifiTracker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="title_drawer_open">Navigation</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="recButtonStart">start</string>
+    <string name="recButtonStop">stop</string>
+    <string name="imageListItemDescription">Image View</string>
+    <string name="positionTextFieldText">position</string>
+    <string name="thereTextViewText">There:</string>
+    <string name="whereButtonText">Where</string>
+    <string name="ap_list_default_text">AP List</string>
+    <string name="image_list_item_default_text">Default</string>
+    <string name="show_json_button">Show Json</string>
+</resources>
